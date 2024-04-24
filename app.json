@@ -1,0 +1,15 @@
+{
+    "name": "Translator API",
+    "description": "Free Google Translator API",
+    "keywords": [
+        "Google",
+        "Translator",
+        "API"
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "Basic"
+        }
+    }
+}
