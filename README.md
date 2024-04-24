@@ -30,3 +30,8 @@ data = {
 
 response = requests.post(url, json=data)
 print(response.json())
+```
+
+<a href="https://heroku.com/deploy?template=https://github.com/dev-virous/TranslateAPI">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+</a>
