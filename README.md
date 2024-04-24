@@ -21,7 +21,7 @@ Base URL: `https://your-api-url.com`
 ```python
 import requests
 
-url = "https://your-api-url.com/translate"
+url = "https://your-api-url.com/translator"
 data = {
     "query": "Hello, world!",
     "query.target_language": "es",
