@@ -8,7 +8,7 @@ This API allows you to translate text using Google Translate.
 - POST
 
 ## API Endpoint
-Base URL: `https://your-api-url.com`
+Base URL: `https://translator.eg-mgn.com/`
 
 ## Parameters
 | Name                   | Description                                     | Required | Options                               |
@@ -21,7 +21,7 @@ Base URL: `https://your-api-url.com`
 ```python
 import requests
 
-url = "https://your-api-url.com/translator"
+url = "https://translator.eg-mgn.com/translator"
 data = {
     "query": "Hello, world!",
     "query.target_language": "es",
